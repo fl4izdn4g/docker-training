@@ -94,3 +94,9 @@ docker exec -it -e VAR=1 ubuntu_bash bash
 
 Więcej informacji [tutaj](https://docs.docker.com/engine/reference/commandline/exec/)
 
+## Startowanie i kończenie pracy kontenera
+``` 
+docker start <id>
+```
+```
+docker stop <id>
