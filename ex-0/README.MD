@@ -11,7 +11,9 @@ Maszyna to podstawowa instalacja Ubuntu Descktop w wersji 16.04 LTS i ma zaistal
 Uwaga przed przystąpieniem do korzystania z maszyny należy sprawdzić czy funkcjonalność kopiuj/wklej działa - "dla świętego spokoju".
 Jeżeli nie to:
 1. Doinstalować do VirtualBox (do odpowiedniej wersji) - Oracle VM VirtualBox Extension Pack - dostępny [tutaj](https://www.virtualbox.org/wiki/Downloads)
+
 **Instalacja tylko do pasującej wersji czyli do VirtualBox 5.2 instalujemy Extension Pack 5.2**
+
 2. Z poziomu maszyny wirtualnej zainstalować Guest Add-ons (Menu -> Urządzenia-> Zamontuj obraz płyty z dodatkami gościa...)
 3. Ustawić wspólny schowek na **Dwukierunkowy** (Menu -> Urządzenia -> Wspólny schowek -> Dwukierunkowy)
 4. Zrestartować maszynę
