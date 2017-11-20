@@ -7,4 +7,4 @@ Szkolenie składać się będzie z 5 ćwieczeń:
 * Ćwiczenie 4 - docker-compose
 * Ćwiczenie 5 - Podstawowe środowisko deweloperskie
 
-**Przed przystąpieniem do realizacji ćwiczeń należy wykonać: Ćwiczenie 0 - Instalacja i konfiguracja maszyny wirtualnej**
+**Przed przystąpieniem do realizacji ćwiczeń należy wykonać: [Ćwiczenie 0 - Instalacja i konfiguracja maszyny wirtualnej](content/ex-0/README.MD)**
