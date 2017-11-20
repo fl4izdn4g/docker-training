@@ -8,7 +8,7 @@ Szkolenie składać się będzie z 5 ćwieczeń:
 
 * [Ćwiczenie 3 - Tworzenie obrazów](./ex-3/README.MD)
 
-* [Ćwiczenie 4 - docker-compose](./ex-4/README.MD)
+* [Ćwiczenie 4 - Budowanie środowiska](./ex-4/README.MD)
 
 * [Ćwiczenie 5 - Podstawowe środowisko deweloperskie](./ex-5/README.MD)
 
