@@ -1,0 +1,1 @@
+# Ćwiczenie 0 - Instalacja i konfiguracja maszyny wirtualnej
