@@ -1,1 +1,1 @@
-# Ćwiczenie 4 - docker-compose
+# Ćwiczenie 4 - Budowanie środowiska
