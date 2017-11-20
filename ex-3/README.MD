@@ -97,4 +97,4 @@ docker login
 docker push <nazwa_zdalna>
 ```
 
-***Polecenie ```docker login``` służy do zalogowania się w serwisie DockerHub, gdzie zostanie wypchnięty obraz.
+**Polecenie ```docker login``` służy do zalogowania się w serwisie DockerHub, gdzie zostanie wypchnięty obraz.**
