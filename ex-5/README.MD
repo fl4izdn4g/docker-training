@@ -25,7 +25,7 @@ touch docker-compose.yaml
 
 ### PHP
 ```
-version: "3"
+version: '2'
 services:
   app:
     build:
