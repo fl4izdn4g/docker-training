@@ -3,6 +3,7 @@ Na koniec zajmiemy się prostym środowiskiem deweloperskim, które będzie się
 * Framework Laravel
 * bazy danych MySQL
 * serwera nginx z PHP
+
 Na hoście nie zostanie zainstalowane PHP i composer. Wszystko będzie odbywało się przez kontenery.
 
 ## Pobranie Framework Laravel
