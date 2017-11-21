@@ -41,7 +41,7 @@ services:
 ```
 
 #### app.dockerfile
-Oparty na bitnami/php-fpm. Szczegóły w repo.
+Oparty na php-fpm w wersji 7.1. Szczegóły w repo.
 
 ### NGINX
 ```
