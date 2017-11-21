@@ -15,6 +15,19 @@ Jeżeli nie to:
 **Instalacja tylko do pasującej wersji czyli do VirtualBox 5.2 instalujemy Extension Pack 5.2**
 
 2. Z poziomu maszyny wirtualnej zainstalować Guest Add-ons (Menu -> Urządzenia-> Zamontuj obraz płyty z dodatkami gościa...)
+
+**Jeżeli instalacja nie działa to należy wykonać to co poniżej**
+```
+sudo apt-get update
+```
+```
+sudo apt-get install build-essential linux-headers-$(uname -r)
+```
+```
+sudo apt-get install virtualbox-guest-dkms
+```
+
+
 3. Ustawić wspólny schowek na **Dwukierunkowy** (Menu -> Urządzenia -> Wspólny schowek -> Dwukierunkowy)
 4. Zrestartować maszynę
 5. Po restarcie sprawdzić czy wszystko działa ;)
